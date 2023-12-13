@@ -1,0 +1,1 @@
+This repository will include the **Table A1: Coefficient of variation for 25 ActivitySim output metrics (across four categories) at different synthetic population sample sizes and sources of uncertainty** from Paper Submission, "Quantifying Uncertainty from Synthetic Population Downscaling in Activity-based Travel Demand Models".
